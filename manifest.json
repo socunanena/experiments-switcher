@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "description": "Switch between experiments",
   "browser_action": {
-    "default_title": "Experiments switcher"
+    "default_title": "Experiments switcher",
+    "default_popup": "browserAction/popup.html"
   },
+  "permissions": [
+    "tabs"
+  ],
   "manifest_version": 2
 }
