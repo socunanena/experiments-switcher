@@ -1,0 +1,9 @@
+{
+  "name": "Experiments switcher",
+  "version": "0.1.0",
+  "description": "Switch between experiments",
+  "browser_action": {
+    "default_title": "Experiments switcher"
+  },
+  "manifest_version": 2
+}
